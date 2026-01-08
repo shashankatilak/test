@@ -1,0 +1,6 @@
+# This is a comment, blank lines are ignored
+
+# Ignore a.env files
+.env
+# Ignore all .log files
+*.log
